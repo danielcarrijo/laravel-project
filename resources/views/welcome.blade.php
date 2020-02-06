@@ -93,7 +93,7 @@
             
             <h5 class="card-title text-center">{{$card->titulo}}</h5>
           </div>
-          <p class="card-text">{{$card->subtitulo}}</p>
+          <p class="card-text"><center>{{$card->subtitulo}}</center></p>
         </div>
       </div>
     </div>

@@ -43,5 +43,5 @@ Route::post('/home/contato/', 'ContatoController@store')->name('contato.store');
 Route::get('/home/contato/{id}', 'ContatoController@destroy')->name('contato.destroy');
 
 Route::get('/home/textos/', 'TextoController@index')->name('textos.index');
-Route::get('/home/carousel/{id}/edit', 'TextoController@edit')->name('textos.edit');
-Route::post('/home/carousel/{id}/edit', 'TextoController@update')->name('textos.update');
+Route::get('/home/textos/{id}/edit', 'TextoController@edit')->name('textos.edit');
+Route::post('/home/textos/{id}/edit', 'TextoController@update')->name('textos.update');
