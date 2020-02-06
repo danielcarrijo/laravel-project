@@ -1,0 +1,124 @@
+ body {
+ 	background-color: black;
+ }
+ #menu1 li a { 
+ 	color: white;
+	font-weight: bolder; 
+	font-size: 12pt;
+}
+
+#menu1 a:hover {
+	color: green;
+	transition: 0.3s;
+}
+
+#last-item {
+	padding: 5px;
+	border: 3px solid blue;
+	border-radius: 30px;
+	margin-top: -5px;
+	margin-left: 15px; 
+}
+
+#last-item:hover {
+	background: white;
+	transition: 0.3s;
+	color: darkgreen;
+}
+
+#show {
+	margin-top: 5px;
+}
+#android:hover {
+	color: green;
+	transition: 0.3s;
+}
+#apple:hover{ 
+	color: gray;
+	transition: 0.3s;
+ }
+#desktop:hover {
+	color: blue;
+	transition: 0.3s;
+}
+/*PANEL*/
+.curve {
+	border-radius: 25px;
+}
+.nav-tabs .nav-item, .nav-tabs .nav-link {
+	font-size: 14pt;
+	padding: 40px;
+	margin: -20px -20px -20px -20px;
+}
+
+.nav-tabs .nav-link.active {
+  background: rgb(211,211,211);
+  border-bottom: 2px solid #343a40;
+}
+/*-------------------------------------------------------------CLASSES-------------------------------------------*/
+
+.scrollspy {
+	position: relative;
+	overflow: auto;
+	height: 350px;
+}
+
+.teste {
+	background: rgb(243,243,243);
+	transition: 0.5s;
+}
+ .black{
+ 	color: #343a40;
+ }
+
+
+.imagem-carousel{
+	opacity: 0.3;
+  	filter: alpha(opacity=30);
+}
+
+.my-nav{
+	position: absolute;
+	width: 100%;
+	z-index: 999;
+	transition: 0.5s;
+	
+}
+
+#link-Slide {
+	margin-top: -23px;
+}
+
+
+
+
+.active a{
+  color: white !important;
+}
+
+h5 {
+	text-align: center;
+}
+
+@media all and (max-width: 767px) {
+	#menu1 {
+		background: rgb(243,243,243);
+		position: relative;
+		margin-top: -23px;
+	}
+	#menu1 li a { 
+		color: #343a40;
+	}
+	#last-item {
+		border: none;
+		margin-left: 0px;
+	}
+
+}
+
+.my-carousel{
+	position: relative;
+	top: 0;
+}
+
+
