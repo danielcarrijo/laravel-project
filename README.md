@@ -77,6 +77,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## Run it
-
-If you want to enter the CRUD, get into the home route, with login daniel.carrijo@outlook.com and password danc141198
