@@ -1,7 +1,7 @@
 
 ## Laravel-Project
 
-A simple website created using Laravel, HTML, CSS, JQuery and Bootstrap. You can see a [demo](https://laravel-webproject.000webhostapp.com/) here. This link will take you to a demostrantion version of the website hosted on webhostapp, however, if you want to get into CRUD area on demo, it is not possible since you need to log in. Therefore I suggest you to follow the steps below to set it up on your local machine, register your own user and go the home/CRUD area. 
+A simple website created using Laravel, HTML, CSS, JQuery and Bootstrap. You can see a [demo](https://laravel-webproject.000webhostapp.com/) here. This link will take you to a demostrantion version of the website hosted on webhostapp where all the texts, images, number of slides, and all are retrieved from the database. However, it is not possible to get into CRUD area in order to change those things on demo since you need to log in. Therefore I suggest you to follow the steps below to set it up on your local machine, register your own user and go the home/CRUD area. 
 
 ## Getting Started
 Clone the project repository by running the command below if you use SSH
