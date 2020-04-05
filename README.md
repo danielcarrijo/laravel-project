@@ -7,13 +7,13 @@ A simple website created using Laravel, HTML, CSS, JQuery and Bootstrap. You can
 Clone the project repository by running the command below if you use SSH
 
 ```bash
-git clone git@github.com:danielcarrijo/todoapp.git
+git clone git@github.com:danielcarrijo/laravel-project.git
 ```
 
 If you use https, use this instead
 
 ```bash
-git clone https://github.com/danielcarrijo/todoapp.git
+git clone https://github.com/danielcarrijo/laravel-project.git
 ```
 
 After cloning, run:
