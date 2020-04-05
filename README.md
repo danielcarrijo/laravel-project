@@ -24,6 +24,12 @@ composer install
 
 Duplicate `.env.example` and rename it `.env`
 
+Generate a new application jey
+
+```bash
+php artisan key:generate
+```
+
 =
 ### Prerequisites
 
